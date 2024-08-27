@@ -1,0 +1,6 @@
+[submodule "efficient-python-tutorials"]
+	path = efficient-python-tutorials
+	url = https://github.com/aaronj0/efficient-python-tutorials.git
+[submodule "fast_and_eff_python"]
+	path = fast_and_eff_python
+	url = https://github.com/jonas-eschle/fast_and_eff_python
